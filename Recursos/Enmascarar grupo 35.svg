@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="83" viewBox="0 0 88 83">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_108" data-name="Rectángulo 108" width="88" height="83" transform="translate(225 156.5)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_35" data-name="Enmascarar grupo 35" transform="translate(-225 -156.5)" clip-path="url(#clip-path)">
+    <g id="ar-camera" transform="translate(225 162.102)">
+      <ellipse id="Elipse_9" data-name="Elipse 9" cx="13.902" cy="13.43" rx="13.902" ry="13.43" transform="translate(30.036 28.85)"/>
+      <path id="Trazado_309" data-name="Trazado 309" d="M73.419,18.06l-.889-4.292a5.122,5.122,0,0,0-5.049-4H38.75a5.122,5.122,0,0,0-5.049,4l-.889,4.292Z" transform="translate(-9.178 -9.77)"/>
+      <path id="Trazado_310" data-name="Trazado 310" d="M80.153,28.832H7.723A7.6,7.6,0,0,0,0,36.293V79.4a7.6,7.6,0,0,0,7.723,7.461H80.153A7.6,7.6,0,0,0,87.876,79.4V36.293A7.6,7.6,0,0,0,80.153,28.832ZM21.969,44.418H13.731a2.489,2.489,0,1,1,0-4.974h8.238a2.489,2.489,0,1,1,0,4.974ZM43.938,76.252c-10.5,0-19.051-8.256-19.051-18.4s8.546-18.4,19.051-18.4,19.051,8.256,19.051,18.4S54.443,76.252,43.938,76.252Z" transform="translate(0 -15.568)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="19" viewBox="0 0 20 19">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_33" data-name="Rectángulo 33" width="20" height="19" transform="translate(24 17.9)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_7" data-name="Enmascarar grupo 7" transform="translate(-24 -17.9)" clip-path="url(#clip-path)">
+    <g id="tecla-de-flecha-izquierda" transform="translate(27.587 18)">
+      <g id="keyboard-arrow-left" transform="translate(0)">
+        <path id="Trazado_204" data-name="Trazado 204" d="M17.81,16.695,9.837,9.45,17.81,2.2,15.383,0,4.983,9.45l10.4,9.45Z" transform="translate(-4.983)"/>
+      </g>
+    </g>
+  </g>
+</svg>
